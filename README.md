@@ -30,9 +30,9 @@ You will be required to submit solutions to the daily coding challenges. Solve e
 
 The challenges will introduce a concept or two, after solving the challenge it is advisable that you explore the concept deeper for a better understanding. 
 
-For most of the challenges minimum tests are written for you, ensure that you code makes all tests pass and feel free to add more tests. 
+For most of the challenges minimum tests are written for you, ensure that your code makes all tests pass and feel free to add more tests.
 
-Make sure your code is clean and readable code. 
+Make sure your code is clean and readable. 
 
 ### Moving forward
 Continue learning and growing. ```Happy coding!!```
